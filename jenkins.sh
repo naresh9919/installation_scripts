@@ -29,7 +29,7 @@ sudo systemctl status jenkins
 
 
 
-cat /var/lib/jenkins/secrets/initialAdminPassword
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 
 #34.232.26.121
